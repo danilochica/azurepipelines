@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/danilochica/capacitacion-pipes/_apis/build/status/danilochica.azurepipelines?branchName=master)](https://dev.azure.com/danilochica/capacitacion-pipes/_build/latest?definitionId=1&branchName=master)
+
 
 # Contributing
 
